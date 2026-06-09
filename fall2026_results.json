@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-06-08T15:46:48",
+  "generated_at": "2026-06-09T07:00:48",
   "term_f26": "Fall 2026",
   "term_f25": "Fall 2025",
   "enrollment": {
-    "headcount": 2668,
+    "headcount": 2673,
     "gender": [
       {
         "label": "Women",
-        "count": 1925,
-        "pct": 72.2
+        "count": 1927,
+        "pct": 72.1
       },
       {
         "label": "Men",
-        "count": 743,
-        "pct": 27.8
+        "count": 746,
+        "pct": 27.9
       }
     ],
     "ethnicity": [
       {
         "label": "Hispanic/Latino",
-        "count": 1619,
-        "pct": 60.7
+        "count": 1620,
+        "pct": 60.6
       },
       {
         "label": "American Indian/Alaska Native",
@@ -39,8 +39,8 @@
       },
       {
         "label": "Black/African American",
-        "count": 773,
-        "pct": 29.0
+        "count": 777,
+        "pct": 29.1
       },
       {
         "label": "White",
@@ -56,25 +56,25 @@
     "full_part": [
       {
         "label": "Part-time",
-        "count": 1437,
-        "pct": 53.9
+        "count": 1439,
+        "pct": 53.8
       },
       {
         "label": "Full-time",
-        "count": 1231,
-        "pct": 46.1
+        "count": 1234,
+        "pct": 46.2
       }
     ],
     "acad_plan": [
       {
         "label": "Liberal Arts and Science AA",
         "count": 829,
-        "pct": 31.1
+        "pct": 31.0
       },
       {
         "label": "Radiologic Technology AAS",
-        "count": 413,
-        "pct": 15.5
+        "count": 416,
+        "pct": 15.6
       },
       {
         "label": "Dental Hygiene AAS",
@@ -108,12 +108,12 @@
       },
       {
         "label": "Game Design AAS",
-        "count": 88,
+        "count": 89,
         "pct": 3.3
       },
       {
         "label": "Digital Dsgn and Animation AAS",
-        "count": 61,
+        "count": 62,
         "pct": 2.3
       },
       {
@@ -129,48 +129,48 @@
       {
         "group": "Freshmen",
         "cohort_n": 1333,
-        "retained": 634,
-        "rate": 47.6
+        "retained": 636,
+        "rate": 47.7
       },
       {
         "group": "Transfers",
         "cohort_n": 1232,
-        "retained": 545,
-        "rate": 44.2
+        "retained": 547,
+        "rate": 44.4
       },
       {
         "group": "All new students",
         "cohort_n": 2565,
-        "retained": 1179,
-        "rate": 46.0
+        "retained": 1183,
+        "rate": 46.1
       }
     ],
     "by_full_part": [
       {
         "label": "FULL-TIME",
         "cohort_n": 1587,
-        "retained": 840,
-        "rate": 52.9
+        "retained": 842,
+        "rate": 53.1
       },
       {
         "label": "PART-TIME",
         "cohort_n": 978,
-        "retained": 339,
-        "rate": 34.7
+        "retained": 341,
+        "rate": 34.9
       }
     ],
     "by_gender": [
       {
         "label": "Women",
         "cohort_n": 1755,
-        "retained": 841,
-        "rate": 47.9
+        "retained": 843,
+        "rate": 48.0
       },
       {
         "label": "Men",
         "cohort_n": 810,
-        "retained": 338,
-        "rate": 41.7
+        "retained": 340,
+        "rate": 42.0
       }
     ],
     "by_program": [
@@ -183,8 +183,8 @@
       {
         "label": "Radiologic Technology AAS",
         "cohort_n": 506,
-        "retained": 198,
-        "rate": 39.1
+        "retained": 201,
+        "rate": 39.7
       },
       {
         "label": "Dental Hygiene AAS",
@@ -231,22 +231,22 @@
       {
         "label": "Digital Dsgn and Animation AAS",
         "cohort_n": 53,
-        "retained": 33,
-        "rate": 62.3
+        "retained": 34,
+        "rate": 64.2
       }
     ],
     "gauges": {
       "ftft_freshmen": {
         "label": "First-time, Full-time Freshmen in Associate Degrees and First-time Programs",
         "cohort_n": 889,
-        "retained": 483,
-        "rate": 54.3
+        "retained": 484,
+        "rate": 54.4
       },
       "ftft_transfers": {
         "label": "Full-time Transfers in Associate Degree Programs",
         "cohort_n": 634,
-        "retained": 327,
-        "rate": 51.6
+        "retained": 328,
+        "rate": 51.7
       }
     }
   }
