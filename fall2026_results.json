@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-06-13T11:00:45",
+  "generated_at": "2026-06-13T16:30:58",
   "term_f26": "Fall 2026",
   "term_f25": "Fall 2025",
   "enrollment": {
-    "headcount": 2835,
+    "headcount": 2839,
     "gender": [
       {
         "label": "Women",
-        "count": 2036,
-        "pct": 71.8
+        "count": 2040,
+        "pct": 71.9
       },
       {
         "label": "Men",
         "count": 799,
-        "pct": 28.2
+        "pct": 28.1
       }
     ],
     "ethnicity": [
       {
         "label": "Hispanic/Latino",
-        "count": 1719,
+        "count": 1721,
         "pct": 60.6
       },
       {
@@ -39,7 +39,7 @@
       },
       {
         "label": "Black/African American",
-        "count": 827,
+        "count": 829,
         "pct": 29.2
       },
       {
@@ -56,29 +56,29 @@
     "full_part": [
       {
         "label": "Part-time",
-        "count": 1506,
+        "count": 1508,
         "pct": 53.1
       },
       {
         "label": "Full-time",
-        "count": 1329,
+        "count": 1331,
         "pct": 46.9
       }
     ],
     "acad_plan": [
       {
         "label": "Liberal Arts and Science AA",
-        "count": 874,
+        "count": 875,
         "pct": 30.8
       },
       {
         "label": "Radiologic Technology AAS",
-        "count": 441,
+        "count": 442,
         "pct": 15.6
       },
       {
         "label": "Dental Hygiene AAS",
-        "count": 252,
+        "count": 253,
         "pct": 8.9
       },
       {
@@ -98,7 +98,7 @@
       },
       {
         "label": "Practical Nursing CERT",
-        "count": 116,
+        "count": 117,
         "pct": 4.1
       },
       {
