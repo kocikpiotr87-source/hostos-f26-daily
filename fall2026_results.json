@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-06-13T16:30:58",
+  "generated_at": "2026-06-15T08:26:23",
   "term_f26": "Fall 2026",
   "term_f25": "Fall 2025",
   "enrollment": {
-    "headcount": 2839,
+    "headcount": 2844,
     "gender": [
       {
         "label": "Women",
-        "count": 2040,
+        "count": 2044,
         "pct": 71.9
       },
       {
         "label": "Men",
-        "count": 799,
+        "count": 800,
         "pct": 28.1
       }
     ],
     "ethnicity": [
       {
         "label": "Hispanic/Latino",
-        "count": 1721,
-        "pct": 60.6
+        "count": 1725,
+        "pct": 60.7
       },
       {
         "label": "American Indian/Alaska Native",
@@ -39,7 +39,7 @@
       },
       {
         "label": "Black/African American",
-        "count": 829,
+        "count": 830,
         "pct": 29.2
       },
       {
@@ -56,12 +56,12 @@
     "full_part": [
       {
         "label": "Part-time",
-        "count": 1508,
+        "count": 1511,
         "pct": 53.1
       },
       {
         "label": "Full-time",
-        "count": 1331,
+        "count": 1333,
         "pct": 46.9
       }
     ],
@@ -73,7 +73,7 @@
       },
       {
         "label": "Radiologic Technology AAS",
-        "count": 442,
+        "count": 443,
         "pct": 15.6
       },
       {
@@ -88,7 +88,7 @@
       },
       {
         "label": "Business Management AS",
-        "count": 145,
+        "count": 146,
         "pct": 5.1
       },
       {
@@ -98,8 +98,8 @@
       },
       {
         "label": "Practical Nursing CERT",
-        "count": 117,
-        "pct": 4.1
+        "count": 120,
+        "pct": 4.2
       },
       {
         "label": "Computer Science AS",
@@ -119,7 +119,7 @@
       {
         "label": "All other (20)",
         "count": 435,
-        "pct": 15.3
+        "pct": 15.2
       }
     ]
   },
@@ -129,48 +129,48 @@
       {
         "group": "Freshmen",
         "cohort_n": 914,
-        "retained": 414,
-        "rate": 45.3
+        "retained": 415,
+        "rate": 45.4
       },
       {
         "group": "Transfers",
         "cohort_n": 694,
-        "retained": 268,
-        "rate": 38.6
+        "retained": 271,
+        "rate": 39.0
       },
       {
         "group": "All new students",
         "cohort_n": 1608,
-        "retained": 682,
-        "rate": 42.4
+        "retained": 686,
+        "rate": 42.7
       }
     ],
     "by_full_part": [
       {
         "label": "FULL-TIME",
         "cohort_n": 1039,
-        "retained": 507,
-        "rate": 48.8
+        "retained": 509,
+        "rate": 49.0
       },
       {
         "label": "PART-TIME",
         "cohort_n": 569,
-        "retained": 175,
-        "rate": 30.8
+        "retained": 177,
+        "rate": 31.1
       }
     ],
     "by_gender": [
       {
         "label": "Women",
         "cohort_n": 1108,
-        "retained": 490,
-        "rate": 44.2
+        "retained": 493,
+        "rate": 44.5
       },
       {
         "label": "Men",
         "cohort_n": 500,
-        "retained": 192,
-        "rate": 38.4
+        "retained": 193,
+        "rate": 38.6
       }
     ],
     "by_program": [
@@ -183,8 +183,8 @@
       {
         "label": "Radiologic Technology AAS",
         "cohort_n": 315,
-        "retained": 100,
-        "rate": 31.7
+        "retained": 101,
+        "rate": 32.1
       },
       {
         "label": "Dental Hygiene AAS",
@@ -195,8 +195,8 @@
       {
         "label": "Practical Nursing CERT",
         "cohort_n": 116,
-        "retained": 39,
-        "rate": 33.6
+        "retained": 41,
+        "rate": 35.3
       },
       {
         "label": "Business Management AS",
@@ -239,14 +239,14 @@
       "ftft_freshmen": {
         "label": "First-time, Full-time Freshmen in Associate Degrees and First-time Programs",
         "cohort_n": 629,
-        "retained": 320,
-        "rate": 50.9
+        "retained": 321,
+        "rate": 51.0
       },
       "ftft_transfers": {
         "label": "Full-time Transfers in Associate Degree Programs",
         "cohort_n": 368,
-        "retained": 167,
-        "rate": 45.4
+        "retained": 168,
+        "rate": 45.7
       }
     }
   }
