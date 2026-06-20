@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-06-20T06:00:30",
+  "generated_at": "2026-06-20T17:01:10",
   "term_f26": "Fall 2026",
   "term_f25": "Fall 2025",
   "enrollment": {
-    "headcount": 2989,
+    "headcount": 2998,
     "gender": [
       {
         "label": "Women",
-        "count": 2133,
+        "count": 2140,
         "pct": 71.4
       },
       {
         "label": "Men",
-        "count": 856,
+        "count": 858,
         "pct": 28.6
       }
     ],
     "ethnicity": [
       {
         "label": "Hispanic/Latino",
-        "count": 1814,
+        "count": 1819,
         "pct": 60.7
       },
       {
@@ -39,8 +39,8 @@
       },
       {
         "label": "Black/African American",
-        "count": 880,
-        "pct": 29.4
+        "count": 884,
+        "pct": 29.5
       },
       {
         "label": "White",
@@ -56,25 +56,25 @@
     "full_part": [
       {
         "label": "Part-time",
-        "count": 1559,
+        "count": 1566,
         "pct": 52.2
       },
       {
         "label": "Full-time",
-        "count": 1430,
+        "count": 1432,
         "pct": 47.8
       }
     ],
     "acad_plan": [
       {
         "label": "Liberal Arts and Science AA",
-        "count": 911,
+        "count": 914,
         "pct": 30.5
       },
       {
         "label": "Radiologic Technology AAS",
-        "count": 467,
-        "pct": 15.6
+        "count": 470,
+        "pct": 15.7
       },
       {
         "label": "Dental Hygiene AAS",
@@ -83,12 +83,12 @@
       },
       {
         "label": "Early Childhood Education AAS",
-        "count": 182,
+        "count": 183,
         "pct": 6.1
       },
       {
         "label": "Business Management AS",
-        "count": 154,
+        "count": 155,
         "pct": 5.2
       },
       {
@@ -118,7 +118,7 @@
       },
       {
         "label": "All other (20)",
-        "count": 461,
+        "count": 462,
         "pct": 15.3
       }
     ]
@@ -135,56 +135,56 @@
       {
         "group": "Transfers",
         "cohort_n": 1232,
-        "retained": 580,
-        "rate": 47.1
+        "retained": 584,
+        "rate": 47.4
       },
       {
         "group": "All new students",
         "cohort_n": 2565,
-        "retained": 1245,
-        "rate": 48.5
+        "retained": 1249,
+        "rate": 48.7
       }
     ],
     "by_full_part": [
       {
         "label": "FULL-TIME",
         "cohort_n": 1587,
-        "retained": 872,
-        "rate": 54.9
+        "retained": 875,
+        "rate": 55.1
       },
       {
         "label": "PART-TIME",
         "cohort_n": 978,
-        "retained": 373,
-        "rate": 38.1
+        "retained": 374,
+        "rate": 38.2
       }
     ],
     "by_gender": [
       {
         "label": "Women",
         "cohort_n": 1755,
-        "retained": 881,
-        "rate": 50.2
+        "retained": 884,
+        "rate": 50.4
       },
       {
         "label": "Men",
         "cohort_n": 810,
-        "retained": 364,
-        "rate": 44.9
+        "retained": 365,
+        "rate": 45.1
       }
     ],
     "by_program": [
       {
         "label": "Liberal Arts and Science AA",
         "cohort_n": 732,
-        "retained": 368,
-        "rate": 50.3
+        "retained": 369,
+        "rate": 50.4
       },
       {
         "label": "Radiologic Technology AAS",
         "cohort_n": 506,
-        "retained": 219,
-        "rate": 43.3
+        "retained": 222,
+        "rate": 43.9
       },
       {
         "label": "Dental Hygiene AAS",
@@ -245,8 +245,8 @@
       "ftft_transfers": {
         "label": "Full-time Transfers in Associate Degree Programs",
         "cohort_n": 634,
-        "retained": 342,
-        "rate": 53.9
+        "retained": 345,
+        "rate": 54.4
       }
     }
   }
