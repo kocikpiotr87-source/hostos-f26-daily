@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-06-21T06:00:36",
+  "generated_at": "2026-06-21T17:00:36",
   "term_f26": "Fall 2026",
   "term_f25": "Fall 2025",
   "enrollment": {
-    "headcount": 2998,
+    "headcount": 3003,
     "gender": [
       {
         "label": "Women",
-        "count": 2140,
+        "count": 2143,
         "pct": 71.4
       },
       {
         "label": "Men",
-        "count": 858,
+        "count": 860,
         "pct": 28.6
       }
     ],
     "ethnicity": [
       {
         "label": "Hispanic/Latino",
-        "count": 1819,
-        "pct": 60.7
+        "count": 1820,
+        "pct": 60.6
       },
       {
         "label": "American Indian/Alaska Native",
@@ -39,8 +39,8 @@
       },
       {
         "label": "Black/African American",
-        "count": 884,
-        "pct": 29.5
+        "count": 888,
+        "pct": 29.6
       },
       {
         "label": "White",
@@ -56,24 +56,24 @@
     "full_part": [
       {
         "label": "Part-time",
-        "count": 1566,
+        "count": 1567,
         "pct": 52.2
       },
       {
         "label": "Full-time",
-        "count": 1432,
+        "count": 1436,
         "pct": 47.8
       }
     ],
     "acad_plan": [
       {
         "label": "Liberal Arts and Science AA",
-        "count": 914,
+        "count": 916,
         "pct": 30.5
       },
       {
         "label": "Radiologic Technology AAS",
-        "count": 470,
+        "count": 472,
         "pct": 15.7
       },
       {
@@ -93,8 +93,8 @@
       },
       {
         "label": "Practical Nursing CERT",
-        "count": 127,
-        "pct": 4.2
+        "count": 128,
+        "pct": 4.3
       },
       {
         "label": "Criminal Justice AA",
