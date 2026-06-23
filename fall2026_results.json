@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-22T17:00:52",
+  "generated_at": "2026-06-23T06:00:35",
   "term_f26": "Fall 2026",
   "term_f25": "Fall 2025",
   "enrollment": {
-    "headcount": 3003,
+    "headcount": 3005,
     "gender": [
       {
         "label": "Women",
-        "count": 2143,
+        "count": 2145,
         "pct": 71.4
       },
       {
@@ -19,7 +19,7 @@
     "ethnicity": [
       {
         "label": "Hispanic/Latino",
-        "count": 1820,
+        "count": 1821,
         "pct": 60.6
       },
       {
@@ -49,14 +49,14 @@
       },
       {
         "label": "Not Specified",
-        "count": 85,
-        "pct": 2.8
+        "count": 86,
+        "pct": 2.9
       }
     ],
     "full_part": [
       {
         "label": "Part-time",
-        "count": 1567,
+        "count": 1569,
         "pct": 52.2
       },
       {
@@ -73,12 +73,12 @@
       },
       {
         "label": "Radiologic Technology AAS",
-        "count": 472,
+        "count": 473,
         "pct": 15.7
       },
       {
         "label": "Dental Hygiene AAS",
-        "count": 270,
+        "count": 271,
         "pct": 9.0
       },
       {
