@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T06:00:43",
+  "generated_at": "2026-06-26T14:55:42",
   "term_f26": "Fall 2026",
   "term_f25": "Fall 2025",
   "enrollment": {
@@ -128,125 +128,125 @@
     "rows": [
       {
         "group": "Freshmen",
-        "cohort_n": 1333,
-        "retained": 670,
-        "rate": 50.3
+        "cohort_n": 914,
+        "retained": 428,
+        "rate": 46.8
       },
       {
         "group": "Transfers",
-        "cohort_n": 1232,
-        "retained": 597,
-        "rate": 48.5
+        "cohort_n": 694,
+        "retained": 283,
+        "rate": 40.8
       },
       {
         "group": "All new students",
-        "cohort_n": 2565,
-        "retained": 1267,
-        "rate": 49.4
+        "cohort_n": 1608,
+        "retained": 711,
+        "rate": 44.2
       }
     ],
     "by_full_part": [
       {
         "label": "FULL-TIME",
-        "cohort_n": 1587,
-        "retained": 881,
-        "rate": 55.5
+        "cohort_n": 1039,
+        "retained": 524,
+        "rate": 50.4
       },
       {
         "label": "PART-TIME",
-        "cohort_n": 978,
-        "retained": 386,
-        "rate": 39.5
+        "cohort_n": 569,
+        "retained": 187,
+        "rate": 32.9
       }
     ],
     "by_gender": [
       {
         "label": "Women",
-        "cohort_n": 1755,
-        "retained": 896,
-        "rate": 51.1
+        "cohort_n": 1108,
+        "retained": 509,
+        "rate": 45.9
       },
       {
         "label": "Men",
-        "cohort_n": 810,
-        "retained": 371,
-        "rate": 45.8
+        "cohort_n": 500,
+        "retained": 202,
+        "rate": 40.4
       }
     ],
     "by_program": [
       {
         "label": "Liberal Arts and Science AA",
-        "cohort_n": 732,
-        "retained": 376,
-        "rate": 51.4
+        "cohort_n": 423,
+        "retained": 200,
+        "rate": 47.3
       },
       {
         "label": "Radiologic Technology AAS",
-        "cohort_n": 506,
-        "retained": 223,
-        "rate": 44.1
+        "cohort_n": 315,
+        "retained": 108,
+        "rate": 34.3
       },
       {
         "label": "Dental Hygiene AAS",
-        "cohort_n": 256,
-        "retained": 123,
-        "rate": 48.0
+        "cohort_n": 160,
+        "retained": 65,
+        "rate": 40.6
       },
       {
         "label": "Practical Nursing CERT",
-        "cohort_n": 182,
-        "retained": 71,
-        "rate": 39.0
+        "cohort_n": 116,
+        "retained": 42,
+        "rate": 36.2
       },
       {
         "label": "Business Management AS",
-        "cohort_n": 126,
-        "retained": 58,
-        "rate": 46.0
+        "cohort_n": 88,
+        "retained": 34,
+        "rate": 38.6
       },
       {
         "label": "Criminal Justice AA",
-        "cohort_n": 118,
-        "retained": 60,
-        "rate": 50.8
+        "cohort_n": 83,
+        "retained": 37,
+        "rate": 44.6
       },
       {
         "label": "Computer Science AS",
-        "cohort_n": 104,
-        "retained": 56,
-        "rate": 53.8
+        "cohort_n": 69,
+        "retained": 36,
+        "rate": 52.2
       },
       {
         "label": "Early Childhood Education AAS",
-        "cohort_n": 102,
-        "retained": 58,
-        "rate": 56.9
+        "cohort_n": 54,
+        "retained": 32,
+        "rate": 59.3
       },
       {
         "label": "Game Design AAS",
-        "cohort_n": 68,
-        "retained": 41,
-        "rate": 60.3
+        "cohort_n": 46,
+        "retained": 27,
+        "rate": 58.7
       },
       {
         "label": "Digital Dsgn and Animation AAS",
-        "cohort_n": 53,
-        "retained": 37,
-        "rate": 69.8
+        "cohort_n": 44,
+        "retained": 33,
+        "rate": 75.0
       }
     ],
     "gauges": {
       "ftft_freshmen": {
         "label": "First-time, Full-time Freshmen in Associate Degrees and First-time Programs",
-        "cohort_n": 889,
-        "retained": 500,
-        "rate": 56.2
+        "cohort_n": 629,
+        "retained": 330,
+        "rate": 52.5
       },
       "ftft_transfers": {
         "label": "Full-time Transfers in Associate Degree Programs",
-        "cohort_n": 634,
-        "retained": 349,
-        "rate": 55.0
+        "cohort_n": 368,
+        "retained": 174,
+        "rate": 47.3
       }
     }
   }
