@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-06-28T11:00:34",
+  "generated_at": "2026-06-28T22:31:45",
   "term_f26": "Fall 2026",
   "term_f25": "Fall 2025",
   "enrollment": {
-    "headcount": 3157,
+    "headcount": 3166,
     "gender": [
       {
         "label": "Women",
-        "count": 2245,
-        "pct": 71.1
+        "count": 2254,
+        "pct": 71.2
       },
       {
         "label": "Men",
         "count": 912,
-        "pct": 28.9
+        "pct": 28.8
       }
     ],
     "ethnicity": [
       {
         "label": "Hispanic/Latino",
-        "count": 1915,
-        "pct": 60.7
+        "count": 1919,
+        "pct": 60.6
       },
       {
         "label": "American Indian/Alaska Native",
@@ -29,7 +29,7 @@
       },
       {
         "label": "Asian",
-        "count": 132,
+        "count": 133,
         "pct": 4.2
       },
       {
@@ -39,12 +39,12 @@
       },
       {
         "label": "Black/African American",
-        "count": 932,
+        "count": 935,
         "pct": 29.5
       },
       {
         "label": "White",
-        "count": 60,
+        "count": 61,
         "pct": 1.9
       },
       {
@@ -56,20 +56,20 @@
     "full_part": [
       {
         "label": "Part-time",
-        "count": 1647,
-        "pct": 52.2
+        "count": 1651,
+        "pct": 52.1
       },
       {
         "label": "Full-time",
-        "count": 1510,
-        "pct": 47.8
+        "count": 1515,
+        "pct": 47.9
       }
     ],
     "acad_plan": [
       {
         "label": "Liberal Arts and Science AA",
-        "count": 961,
-        "pct": 30.4
+        "count": 965,
+        "pct": 30.5
       },
       {
         "label": "Radiologic Technology AAS",
@@ -78,8 +78,8 @@
       },
       {
         "label": "Dental Hygiene AAS",
-        "count": 289,
-        "pct": 9.2
+        "count": 293,
+        "pct": 9.3
       },
       {
         "label": "Early Childhood Education AAS",
@@ -88,12 +88,12 @@
       },
       {
         "label": "Business Management AS",
-        "count": 162,
+        "count": 163,
         "pct": 5.1
       },
       {
         "label": "Criminal Justice AA",
-        "count": 136,
+        "count": 137,
         "pct": 4.3
       },
       {
@@ -118,7 +118,7 @@
       },
       {
         "label": "All other (20)",
-        "count": 485,
+        "count": 484,
         "pct": 15.5
       }
     ]
@@ -135,14 +135,14 @@
       {
         "group": "Transfers",
         "cohort_n": 694,
-        "retained": 285,
-        "rate": 41.1
+        "retained": 286,
+        "rate": 41.2
       },
       {
         "group": "All new students",
         "cohort_n": 1608,
-        "retained": 722,
-        "rate": 44.9
+        "retained": 723,
+        "rate": 45.0
       }
     ],
     "by_full_part": [
@@ -155,16 +155,16 @@
       {
         "label": "PART-TIME",
         "cohort_n": 569,
-        "retained": 194,
-        "rate": 34.1
+        "retained": 195,
+        "rate": 34.3
       }
     ],
     "by_gender": [
       {
         "label": "Women",
         "cohort_n": 1108,
-        "retained": 517,
-        "rate": 46.7
+        "retained": 518,
+        "rate": 46.8
       },
       {
         "label": "Men",
@@ -183,8 +183,8 @@
       {
         "label": "Radiologic Technology AAS",
         "cohort_n": 315,
-        "retained": 109,
-        "rate": 34.6
+        "retained": 110,
+        "rate": 34.9
       },
       {
         "label": "Dental Hygiene AAS",
