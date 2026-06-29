@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T22:31:45",
+  "generated_at": "2026-06-28T23:40:20",
   "term_f26": "Fall 2026",
   "term_f25": "Fall 2025",
   "enrollment": {
@@ -14,6 +14,38 @@
         "label": "Men",
         "count": 912,
         "pct": 28.8
+      }
+    ],
+    "admit_type": [
+      {
+        "label": "First-time Freshman",
+        "count": 390,
+        "pct": 12.3
+      },
+      {
+        "label": "Transfer",
+        "count": 246,
+        "pct": 7.8
+      },
+      {
+        "label": "Continuing Degree",
+        "count": 2276,
+        "pct": 71.9
+      },
+      {
+        "label": "Undergraduate Readmit",
+        "count": 235,
+        "pct": 7.4
+      },
+      {
+        "label": "Non-degree",
+        "count": 18,
+        "pct": 0.6
+      },
+      {
+        "label": "Other / Unknown",
+        "count": 1,
+        "pct": 0.0
       }
     ],
     "ethnicity": [
