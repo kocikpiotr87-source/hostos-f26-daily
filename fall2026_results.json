@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-29T09:40:12",
+  "generated_at": "2026-06-29T18:05:31",
   "term_f26": "Fall 2026",
   "term_f25": "Fall 2025",
   "enrollment": {
-    "headcount": 3166,
+    "headcount": 3167,
     "gender": [
       {
         "label": "Women",
-        "count": 2254,
+        "count": 2255,
         "pct": 71.2
       },
       {
@@ -29,7 +29,7 @@
       },
       {
         "label": "Continuing Degree",
-        "count": 2276,
+        "count": 2277,
         "pct": 71.9
       },
       {
@@ -81,26 +81,26 @@
       },
       {
         "label": "Not Specified",
-        "count": 89,
+        "count": 90,
         "pct": 2.8
       }
     ],
     "full_part": [
       {
         "label": "Part-time",
-        "count": 1651,
+        "count": 1650,
         "pct": 52.1
       },
       {
         "label": "Full-time",
-        "count": 1515,
+        "count": 1517,
         "pct": 47.9
       }
     ],
     "acad_plan": [
       {
         "label": "Liberal Arts and Science AA",
-        "count": 965,
+        "count": 966,
         "pct": 30.5
       },
       {
@@ -110,7 +110,7 @@
       },
       {
         "label": "Dental Hygiene AAS",
-        "count": 293,
+        "count": 294,
         "pct": 9.3
       },
       {
@@ -130,8 +130,8 @@
       },
       {
         "label": "Practical Nursing CERT",
-        "count": 135,
-        "pct": 4.3
+        "count": 134,
+        "pct": 4.2
       },
       {
         "label": "Computer Science AS",
@@ -181,14 +181,14 @@
       {
         "label": "FULL-TIME",
         "cohort_n": 1039,
-        "retained": 528,
-        "rate": 50.8
+        "retained": 527,
+        "rate": 50.7
       },
       {
         "label": "PART-TIME",
         "cohort_n": 569,
-        "retained": 195,
-        "rate": 34.3
+        "retained": 196,
+        "rate": 34.4
       }
     ],
     "by_gender": [
@@ -209,8 +209,8 @@
       {
         "label": "Liberal Arts and Science AA",
         "cohort_n": 423,
-        "retained": 204,
-        "rate": 48.2
+        "retained": 205,
+        "rate": 48.5
       },
       {
         "label": "Radiologic Technology AAS",
@@ -227,8 +227,8 @@
       {
         "label": "Practical Nursing CERT",
         "cohort_n": 116,
-        "retained": 42,
-        "rate": 36.2
+        "retained": 41,
+        "rate": 35.3
       },
       {
         "label": "Business Management AS",
