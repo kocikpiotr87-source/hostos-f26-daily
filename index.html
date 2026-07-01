@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Fall 2026 Enrollment & Re-enrollment</title>
+<title>Fall 2026 Enrollment & Re-enrollment — daily</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
 <style>
@@ -19,6 +19,8 @@
   h1 { font-family:"Fraunces",Georgia,serif; font-weight:600;
         font-size:clamp(1.5rem,3vw,2.1rem); margin:.1em 0 .05em; line-height:1.08; }
   .sub { color:var(--muted); font-size:.9rem; }
+  .srcline { color:var(--muted); font-size:.78rem; margin-top:4px; }
+  .srcline code { background:#eef1ee; border-radius:4px; padding:1px 5px; font-size:.9em; }
   .printbtn { flex:none; background:#fff; border:1px solid var(--line); cursor:pointer;
     border-radius:10px; padding:9px 15px; font:inherit; font-weight:700; color:var(--crimson); }
   .printbtn:hover { background:var(--crimson); color:#fff; }
@@ -89,9 +91,11 @@
   <div class="topbar"></div>
   <header>
     <div>
-      <div class="eyebrow">Hostos Community College &middot; Office of Institutional Effectiveness, Research &amp; Assessment</div>
+      <div class="eyebrow">Hostos Community College &middot; Office of Institutional Effectiveness, Research, and Assessment</div>
       <h1>Fall 2026 Enrollment &amp; Re-enrollment</h1>
-      <div class="sub">F26 term 1269 &middot; F25 cohort retained to F26 &middot; overall 45.1%</div>
+      <div class="sub">F26 term 1269 &middot; F25 cohort retained to F26 &middot; overall 0.0%</div>
+      <div class="srcline">Source: <code>dly_ira_term_enrlmt_dly_omni.csv</code> &middot; generated Jul 01, 2026 05:34 PM</div>
+      <div class="asof" style="margin:10px 0 0;padding:7px 13px;border-radius:8px;background:#eef1ee;color:#5a6b5f;border:1px solid #dfe4df;font-size:13px;display:inline-block">Daily enrollment file &middot; refreshed <b>Jul 01, 2026</b></div>
     </div>
     <button class="printbtn" onclick="window.print()">Print / Save PDF</button>
   </header>
@@ -109,8 +113,8 @@
       <div class="kpi"><div class="n">7</div><div class="l">Race/ethnicity groups</div></div>
     </div>
     <section><h2>Admission Type</h2>
-      <p class="note">From the daily file's <code>IR_ADMISSION_TYPE_DESCR</code>, grouped to match the i805 dashboard and the Show file.</p>
-      <div class="barlist"><div class="barrow"><div class="barlabel">First-time Freshman</div><div class="bartrack"><div class="barfill" style="width:13.0%;background:#9ec3e0"></div></div><div class="barval">419 <span class="pct">(13.0%)</span></div></div><div class="barrow"><div class="barlabel">Transfer</div><div class="bartrack"><div class="barfill" style="width:8.0%;background:#ecd98c"></div></div><div class="barval">259 <span class="pct">(8.0%)</span></div></div><div class="barrow"><div class="barlabel">Continuing Degree</div><div class="bartrack"><div class="barfill" style="width:70.8%;background:#a9d6c9"></div></div><div class="barval">2,287 <span class="pct">(70.8%)</span></div></div><div class="barrow"><div class="barlabel">Undergraduate Readmit</div><div class="bartrack"><div class="barfill" style="width:7.6%;background:#cbb8d9"></div></div><div class="barval">244 <span class="pct">(7.6%)</span></div></div><div class="barrow"><div class="barlabel">Non-degree</div><div class="bartrack"><div class="barfill" style="width:2%;background:#bcd0c4"></div></div><div class="barval">18 <span class="pct">(0.6%)</span></div></div><div class="barrow"><div class="barlabel">Other / Unknown</div><div class="bartrack"><div class="barfill" style="width:2%;background:#e6c79c"></div></div><div class="barval">1 <span class="pct">(0.0%)</span></div></div></div></section>
+      <p class="note">From <code>IR_ADMISSION_TYPE_DESCR</code>, collapsed to the core types &mdash; Freshman, Transfer, Continuing, Readmit &mdash; with everything else grouped as Other.</p>
+      <div class="barlist"><div class="barrow"><div class="barlabel">First-time Freshman</div><div class="bartrack"><div class="barfill" style="width:13.0%;background:#9ec3e0"></div></div><div class="barval">419 <span class="pct">(13.0%)</span></div></div><div class="barrow"><div class="barlabel">Transfer</div><div class="bartrack"><div class="barfill" style="width:8.0%;background:#ecd98c"></div></div><div class="barval">259 <span class="pct">(8.0%)</span></div></div><div class="barrow"><div class="barlabel">Continuing Degree</div><div class="bartrack"><div class="barfill" style="width:70.8%;background:#a9d6c9"></div></div><div class="barval">2,287 <span class="pct">(70.8%)</span></div></div><div class="barrow"><div class="barlabel">Undergraduate Readmit</div><div class="bartrack"><div class="barfill" style="width:7.6%;background:#cbb8d9"></div></div><div class="barval">244 <span class="pct">(7.6%)</span></div></div><div class="barrow"><div class="barlabel">Other</div><div class="bartrack"><div class="barfill" style="width:2%;background:#bcd0c4"></div></div><div class="barval">19 <span class="pct">(0.6%)</span></div></div></div></section>
     <section><h2>Gender</h2><div class="barlist"><div class="barrow"><div class="barlabel">Women</div><div class="bartrack"><div class="barfill" style="width:71.1%;background:#9ec3e0"></div></div><div class="barval">2,295 <span class="pct">(71.1%)</span></div></div><div class="barrow"><div class="barlabel">Men</div><div class="bartrack"><div class="barfill" style="width:28.9%;background:#ecd98c"></div></div><div class="barval">933 <span class="pct">(28.9%)</span></div></div></div></section>
     <section><h2>Race / Ethnicity</h2>
       <p class="note">Priority order from the eight flags; Italian counts as White.</p>
@@ -122,19 +126,19 @@
     <div class="tab" id="tab1">
       <div class="tab-title">Fall 2026 Re-enrollment of Fall 2025 Freshmen &amp; Transfers</div>
       
-    <div class="kpis"><div class="kpi"><div class="n">48.0%</div><div class="l">Freshmen re-enrolled</div></div><div class="kpi"><div class="n">41.4%</div><div class="l">Transfers re-enrolled</div></div><div class="kpi"><div class="n">45.1%</div><div class="l">All new students re-enrolled</div></div></div>
+    <div class="kpis"><div class="kpi"><div class="n">0.0%</div><div class="l">All new students re-enrolled</div></div></div>
     <section><h2>Official cohort re-enrollment</h2>
       <div class="gaugestack">
-        <div class="gaugecard"><div class="gauge" style="background:conic-gradient(#7ba6cd 0% 53.1%,#eef1ee 53.1% 100%)"><div class="gaugehole"><span class="gaugeval">53.1%</span></div></div><div class="gl">First-time, Full-time Freshmen in Associate Degrees and First-time Programs</div><div class="gm">334 of 629 re-enrolled</div></div>
-        <div class="gaugecard"><div class="gauge" style="background:conic-gradient(#cdb863 0% 47.6%,#eef1ee 47.6% 100%)"><div class="gaugehole"><span class="gaugeval">47.6%</span></div></div><div class="gl">Full-time Transfers in Associate Degree Programs</div><div class="gm">175 of 368 re-enrolled</div></div>
+        <div class="gaugecard"><div class="gauge" style="background:conic-gradient(#7ba6cd 0% 0%,#eef1ee 0% 100%)"><div class="gaugehole"><span class="gaugeval">0.0%</span></div></div><div class="gl">First-time, Full-time Freshmen in Associate Degrees and First-time Programs</div><div class="gm">0 of 0 re-enrolled</div></div>
+        <div class="gaugecard"><div class="gauge" style="background:conic-gradient(#cdb863 0% 0%,#eef1ee 0% 100%)"><div class="gaugehole"><span class="gaugeval">0.0%</span></div></div><div class="gl">Full-time Transfers in Associate Degree Programs</div><div class="gm">0 of 0 re-enrolled</div></div>
       </div></section>
     <section><h2>Re-enrollment rate by cohort group</h2>
-      <div class="barlist"><div class="barrow"><div class="barlabel">Freshmen</div><div class="bartrack"><div class="barfill" style="width:48.0%;background:#9ec3e0"></div></div><div class="barval">48.0% <span class="pct">(439/914)</span></div></div><div class="barrow"><div class="barlabel">Transfers</div><div class="bartrack"><div class="barfill" style="width:41.4%;background:#ecd98c"></div></div><div class="barval">41.4% <span class="pct">(287/694)</span></div></div><div class="barrow"><div class="barlabel">All new students</div><div class="bartrack"><div class="barfill" style="width:45.1%;background:#a9d6c9"></div></div><div class="barval">45.1% <span class="pct">(726/1,608)</span></div></div></div></section>
-    <section><h2>Re-enrollment by Full-time / Part-time</h2><div class="barlist"><div class="barrow"><div class="barlabel">FULL-TIME</div><div class="bartrack"><div class="barfill" style="width:50.8%;background:#9ec3e0"></div></div><div class="barval">50.8% <span class="pct">(528/1,039)</span></div></div><div class="barrow"><div class="barlabel">PART-TIME</div><div class="bartrack"><div class="barfill" style="width:34.8%;background:#ecd98c"></div></div><div class="barval">34.8% <span class="pct">(198/569)</span></div></div></div></section><section><h2>Re-enrollment by Gender</h2><div class="barlist"><div class="barrow"><div class="barlabel">Women</div><div class="bartrack"><div class="barfill" style="width:46.9%;background:#9ec3e0"></div></div><div class="barval">46.9% <span class="pct">(520/1,108)</span></div></div><div class="barrow"><div class="barlabel">Men</div><div class="bartrack"><div class="barfill" style="width:41.2%;background:#ecd98c"></div></div><div class="barval">41.2% <span class="pct">(206/500)</span></div></div></div></section><section><h2>Top 10 Re-enrolling Programs (Fall 2025 program)</h2><p class="note">F25 program of the cohort, regardless of what they re-enroll into for Fall 2026.</p><div class="barlist"><div class="barrow"><div class="barlabel">Liberal Arts and Science AA</div><div class="bartrack"><div class="barfill" style="width:48.5%;background:#9ec3e0"></div></div><div class="barval">48.5% <span class="pct">(205/423)</span></div></div><div class="barrow"><div class="barlabel">Radiologic Technology AAS</div><div class="bartrack"><div class="barfill" style="width:35.2%;background:#ecd98c"></div></div><div class="barval">35.2% <span class="pct">(111/315)</span></div></div><div class="barrow"><div class="barlabel">Dental Hygiene AAS</div><div class="bartrack"><div class="barfill" style="width:41.2%;background:#a9d6c9"></div></div><div class="barval">41.2% <span class="pct">(66/160)</span></div></div><div class="barrow"><div class="barlabel">Practical Nursing CERT</div><div class="bartrack"><div class="barfill" style="width:35.3%;background:#cbb8d9"></div></div><div class="barval">35.3% <span class="pct">(41/116)</span></div></div><div class="barrow"><div class="barlabel">Business Management AS</div><div class="bartrack"><div class="barfill" style="width:39.8%;background:#bcd0c4"></div></div><div class="barval">39.8% <span class="pct">(35/88)</span></div></div><div class="barrow"><div class="barlabel">Criminal Justice AA</div><div class="bartrack"><div class="barfill" style="width:48.2%;background:#e6c79c"></div></div><div class="barval">48.2% <span class="pct">(40/83)</span></div></div><div class="barrow"><div class="barlabel">Computer Science AS</div><div class="bartrack"><div class="barfill" style="width:52.2%;background:#a9bcd0"></div></div><div class="barval">52.2% <span class="pct">(36/69)</span></div></div><div class="barrow"><div class="barlabel">Early Childhood Education AAS</div><div class="bartrack"><div class="barfill" style="width:61.1%;background:#d8c3c3"></div></div><div class="barval">61.1% <span class="pct">(33/54)</span></div></div><div class="barrow"><div class="barlabel">Game Design AAS</div><div class="bartrack"><div class="barfill" style="width:58.7%;background:#9ec3e0"></div></div><div class="barval">58.7% <span class="pct">(27/46)</span></div></div><div class="barrow"><div class="barlabel">Digital Dsgn and Animation AAS</div><div class="bartrack"><div class="barfill" style="width:75.0%;background:#ecd98c"></div></div><div class="barval">75.0% <span class="pct">(33/44)</span></div></div></div></section>
+      <div class="barlist"><div class="barrow"><div class="barlabel">All new students</div><div class="bartrack"><div class="barfill" style="width:2%;background:#9ec3e0"></div></div><div class="barval">0.0% <span class="pct">(0/0)</span></div></div></div></section>
+    
     
     </div>
   </main>
-  <footer>Generated Jul 01, 2026 04:44 PM from <code>dly_ira_term_enrlmt_dly_omni.csv</code>. Daily automated report.
+  <footer>Generated Jul 01, 2026 05:34 PM from <code>dly_ira_term_enrlmt_dly_omni.csv</code>. Daily automated report.
     Tip: click a tab, then Print / Save PDF to print just that page.</footer>
   <script>
     function showTab(i, btn) {

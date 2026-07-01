@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T16:44:28",
+  "generated_at": "2026-07-01T17:34:19",
   "term_f26": "Fall 2026",
   "term_f25": "Fall 2025",
   "enrollment": {
@@ -38,14 +38,9 @@
         "pct": 7.6
       },
       {
-        "label": "Non-degree",
-        "count": 18,
+        "label": "Other",
+        "count": 19,
         "pct": 0.6
-      },
-      {
-        "label": "Other / Unknown",
-        "count": 1,
-        "pct": 0.0
       }
     ],
     "ethnicity": [
@@ -159,126 +154,27 @@
     "join_key": "CF Emplid <-> IR_SCHOLAR_ID",
     "rows": [
       {
-        "group": "Freshmen",
-        "cohort_n": 914,
-        "retained": 439,
-        "rate": 48.0
-      },
-      {
-        "group": "Transfers",
-        "cohort_n": 694,
-        "retained": 287,
-        "rate": 41.4
-      },
-      {
         "group": "All new students",
-        "cohort_n": 1608,
-        "retained": 726,
-        "rate": 45.1
+        "cohort_n": 0,
+        "retained": 0,
+        "rate": 0.0
       }
     ],
-    "by_full_part": [
-      {
-        "label": "FULL-TIME",
-        "cohort_n": 1039,
-        "retained": 528,
-        "rate": 50.8
-      },
-      {
-        "label": "PART-TIME",
-        "cohort_n": 569,
-        "retained": 198,
-        "rate": 34.8
-      }
-    ],
-    "by_gender": [
-      {
-        "label": "Women",
-        "cohort_n": 1108,
-        "retained": 520,
-        "rate": 46.9
-      },
-      {
-        "label": "Men",
-        "cohort_n": 500,
-        "retained": 206,
-        "rate": 41.2
-      }
-    ],
-    "by_program": [
-      {
-        "label": "Liberal Arts and Science AA",
-        "cohort_n": 423,
-        "retained": 205,
-        "rate": 48.5
-      },
-      {
-        "label": "Radiologic Technology AAS",
-        "cohort_n": 315,
-        "retained": 111,
-        "rate": 35.2
-      },
-      {
-        "label": "Dental Hygiene AAS",
-        "cohort_n": 160,
-        "retained": 66,
-        "rate": 41.2
-      },
-      {
-        "label": "Practical Nursing CERT",
-        "cohort_n": 116,
-        "retained": 41,
-        "rate": 35.3
-      },
-      {
-        "label": "Business Management AS",
-        "cohort_n": 88,
-        "retained": 35,
-        "rate": 39.8
-      },
-      {
-        "label": "Criminal Justice AA",
-        "cohort_n": 83,
-        "retained": 40,
-        "rate": 48.2
-      },
-      {
-        "label": "Computer Science AS",
-        "cohort_n": 69,
-        "retained": 36,
-        "rate": 52.2
-      },
-      {
-        "label": "Early Childhood Education AAS",
-        "cohort_n": 54,
-        "retained": 33,
-        "rate": 61.1
-      },
-      {
-        "label": "Game Design AAS",
-        "cohort_n": 46,
-        "retained": 27,
-        "rate": 58.7
-      },
-      {
-        "label": "Digital Dsgn and Animation AAS",
-        "cohort_n": 44,
-        "retained": 33,
-        "rate": 75.0
-      }
-    ],
+    "by_full_part": [],
+    "by_gender": [],
+    "by_program": [],
     "gauges": {
       "ftft_freshmen": {
         "label": "First-time, Full-time Freshmen in Associate Degrees and First-time Programs",
-        "cohort_n": 629,
-        "retained": 334,
-        "rate": 53.1
+        "cohort_n": 0,
+        "retained": 0,
+        "rate": 0.0
       },
       "ftft_transfers": {
         "label": "Full-time Transfers in Associate Degree Programs",
-        "cohort_n": 368,
-        "retained": 175,
-        "rate": 47.6
+        "cohort_n": 0,
+        "retained": 0,
+        "rate": 0.0
       }
     }
   }
