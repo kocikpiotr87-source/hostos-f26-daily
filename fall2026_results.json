@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T18:00:33",
+  "generated_at": "2026-06-30T21:19:33",
   "term_f26": "Fall 2026",
   "term_f25": "Fall 2025",
   "enrollment": {
@@ -14,6 +14,38 @@
         "label": "Men",
         "count": 933,
         "pct": 28.9
+      }
+    ],
+    "admit_type": [
+      {
+        "label": "First-time Freshman",
+        "count": 390,
+        "pct": 12.1
+      },
+      {
+        "label": "Transfer",
+        "count": 258,
+        "pct": 8.0
+      },
+      {
+        "label": "Continuing Degree",
+        "count": 2287,
+        "pct": 70.8
+      },
+      {
+        "label": "Undergraduate Readmit",
+        "count": 244,
+        "pct": 7.6
+      },
+      {
+        "label": "Non-degree",
+        "count": 18,
+        "pct": 0.6
+      },
+      {
+        "label": "Other / Unknown",
+        "count": 31,
+        "pct": 1.0
       }
     ],
     "ethnicity": [
@@ -128,125 +160,125 @@
     "rows": [
       {
         "group": "Freshmen",
-        "cohort_n": 1333,
-        "retained": 686,
-        "rate": 51.5
+        "cohort_n": 914,
+        "retained": 439,
+        "rate": 48.0
       },
       {
         "group": "Transfers",
-        "cohort_n": 1232,
-        "retained": 605,
-        "rate": 49.1
+        "cohort_n": 694,
+        "retained": 287,
+        "rate": 41.4
       },
       {
         "group": "All new students",
-        "cohort_n": 2565,
-        "retained": 1291,
-        "rate": 50.3
+        "cohort_n": 1608,
+        "retained": 726,
+        "rate": 45.1
       }
     ],
     "by_full_part": [
       {
         "label": "FULL-TIME",
-        "cohort_n": 1587,
-        "retained": 892,
-        "rate": 56.2
+        "cohort_n": 1039,
+        "retained": 528,
+        "rate": 50.8
       },
       {
         "label": "PART-TIME",
-        "cohort_n": 978,
-        "retained": 399,
-        "rate": 40.8
+        "cohort_n": 569,
+        "retained": 198,
+        "rate": 34.8
       }
     ],
     "by_gender": [
       {
         "label": "Women",
-        "cohort_n": 1755,
-        "retained": 912,
-        "rate": 52.0
+        "cohort_n": 1108,
+        "retained": 520,
+        "rate": 46.9
       },
       {
         "label": "Men",
-        "cohort_n": 810,
-        "retained": 379,
-        "rate": 46.8
+        "cohort_n": 500,
+        "retained": 206,
+        "rate": 41.2
       }
     ],
     "by_program": [
       {
         "label": "Liberal Arts and Science AA",
-        "cohort_n": 732,
-        "retained": 385,
-        "rate": 52.6
+        "cohort_n": 423,
+        "retained": 205,
+        "rate": 48.5
       },
       {
         "label": "Radiologic Technology AAS",
-        "cohort_n": 506,
-        "retained": 226,
-        "rate": 44.7
+        "cohort_n": 315,
+        "retained": 111,
+        "rate": 35.2
       },
       {
         "label": "Dental Hygiene AAS",
-        "cohort_n": 256,
-        "retained": 125,
-        "rate": 48.8
+        "cohort_n": 160,
+        "retained": 66,
+        "rate": 41.2
       },
       {
         "label": "Practical Nursing CERT",
-        "cohort_n": 182,
-        "retained": 71,
-        "rate": 39.0
+        "cohort_n": 116,
+        "retained": 41,
+        "rate": 35.3
       },
       {
         "label": "Business Management AS",
-        "cohort_n": 126,
-        "retained": 59,
-        "rate": 46.8
+        "cohort_n": 88,
+        "retained": 35,
+        "rate": 39.8
       },
       {
         "label": "Criminal Justice AA",
-        "cohort_n": 118,
-        "retained": 64,
-        "rate": 54.2
+        "cohort_n": 83,
+        "retained": 40,
+        "rate": 48.2
       },
       {
         "label": "Computer Science AS",
-        "cohort_n": 104,
-        "retained": 56,
-        "rate": 53.8
+        "cohort_n": 69,
+        "retained": 36,
+        "rate": 52.2
       },
       {
         "label": "Early Childhood Education AAS",
-        "cohort_n": 102,
-        "retained": 59,
-        "rate": 57.8
+        "cohort_n": 54,
+        "retained": 33,
+        "rate": 61.1
       },
       {
         "label": "Game Design AAS",
-        "cohort_n": 68,
-        "retained": 41,
-        "rate": 60.3
+        "cohort_n": 46,
+        "retained": 27,
+        "rate": 58.7
       },
       {
         "label": "Digital Dsgn and Animation AAS",
-        "cohort_n": 53,
-        "retained": 38,
-        "rate": 71.7
+        "cohort_n": 44,
+        "retained": 33,
+        "rate": 75.0
       }
     ],
     "gauges": {
       "ftft_freshmen": {
         "label": "First-time, Full-time Freshmen in Associate Degrees and First-time Programs",
-        "cohort_n": 889,
-        "retained": 509,
-        "rate": 57.3
+        "cohort_n": 629,
+        "retained": 334,
+        "rate": 53.1
       },
       "ftft_transfers": {
         "label": "Full-time Transfers in Associate Degree Programs",
-        "cohort_n": 634,
-        "retained": 351,
-        "rate": 55.4
+        "cohort_n": 368,
+        "retained": 175,
+        "rate": 47.6
       }
     }
   }
