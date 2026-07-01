@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T14:52:44",
+  "generated_at": "2026-07-01T16:44:28",
   "term_f26": "Fall 2026",
   "term_f25": "Fall 2025",
   "enrollment": {
@@ -19,12 +19,12 @@
     "admit_type": [
       {
         "label": "First-time Freshman",
-        "count": 390,
-        "pct": 12.1
+        "count": 419,
+        "pct": 13.0
       },
       {
         "label": "Transfer",
-        "count": 258,
+        "count": 259,
         "pct": 8.0
       },
       {
@@ -44,8 +44,8 @@
       },
       {
         "label": "Other / Unknown",
-        "count": 31,
-        "pct": 1.0
+        "count": 1,
+        "pct": 0.0
       }
     ],
     "ethnicity": [
