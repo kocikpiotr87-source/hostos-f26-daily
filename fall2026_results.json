@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T06:15:48",
+  "generated_at": "2026-07-04T09:51:10",
   "term_f26": "Fall 2026",
   "term_f25": "Fall 2025",
   "enrollment": {
@@ -38,14 +38,9 @@
         "pct": 7.5
       },
       {
-        "label": "Non-degree",
-        "count": 18,
+        "label": "Other",
+        "count": 19,
         "pct": 0.6
-      },
-      {
-        "label": "Other / Unknown",
-        "count": 1,
-        "pct": 0.0
       }
     ],
     "ethnicity": [
