@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-07-26T08:15:19",
+  "generated_at": "2026-07-26T18:15:28",
   "term_f26": "Fall 2026",
   "term_f25": "Fall 2025",
   "enrollment": {
-    "headcount": 4144,
+    "headcount": 4151,
     "gender": [
       {
         "label": "Women",
-        "count": 2926,
+        "count": 2931,
         "pct": 70.6
       },
       {
         "label": "Men",
-        "count": 1218,
+        "count": 1220,
         "pct": 29.4
       }
     ],
@@ -20,17 +20,17 @@
       {
         "label": "First-time Freshman",
         "count": 579,
-        "pct": 14.0
+        "pct": 13.9
       },
       {
         "label": "Transfer",
-        "count": 381,
+        "count": 382,
         "pct": 9.2
       },
       {
         "label": "Continuing Degree",
-        "count": 2567,
-        "pct": 61.9
+        "count": 2573,
+        "pct": 62.0
       },
       {
         "label": "Undergraduate Readmit",
@@ -46,7 +46,7 @@
     "ethnicity": [
       {
         "label": "Hispanic/Latino",
-        "count": 2318,
+        "count": 2321,
         "pct": 55.9
       },
       {
@@ -66,8 +66,8 @@
       },
       {
         "label": "Black/African American",
-        "count": 1191,
-        "pct": 28.7
+        "count": 1195,
+        "pct": 28.8
       },
       {
         "label": "White",
@@ -77,18 +77,18 @@
       {
         "label": "Not Specified",
         "count": 338,
-        "pct": 8.2
+        "pct": 8.1
       }
     ],
     "full_part": [
       {
         "label": "Part-time",
-        "count": 2252,
+        "count": 2255,
         "pct": 54.3
       },
       {
         "label": "Full-time",
-        "count": 1892,
+        "count": 1896,
         "pct": 45.7
       }
     ],
@@ -105,7 +105,7 @@
       },
       {
         "label": "Dental Hygiene AAS",
-        "count": 406,
+        "count": 407,
         "pct": 9.8
       },
       {
@@ -125,8 +125,8 @@
       },
       {
         "label": "Practical Nursing CERT",
-        "count": 184,
-        "pct": 4.4
+        "count": 186,
+        "pct": 4.5
       },
       {
         "label": "Criminal Justice AA",
@@ -145,8 +145,8 @@
       },
       {
         "label": "All other (21)",
-        "count": 702,
-        "pct": 16.8
+        "count": 706,
+        "pct": 16.9
       }
     ]
   },
