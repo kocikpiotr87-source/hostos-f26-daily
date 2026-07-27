@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T08:15:25",
+  "generated_at": "2026-07-27T18:15:31",
   "term_f26": "Fall 2026",
   "term_f25": "Fall 2025",
   "enrollment": {
@@ -7,13 +7,13 @@
     "gender": [
       {
         "label": "Women",
-        "count": 2931,
-        "pct": 70.6
+        "count": 2933,
+        "pct": 70.7
       },
       {
         "label": "Men",
-        "count": 1220,
-        "pct": 29.4
+        "count": 1218,
+        "pct": 29.3
       }
     ],
     "admit_type": [
@@ -24,12 +24,12 @@
       },
       {
         "label": "Transfer",
-        "count": 382,
+        "count": 383,
         "pct": 9.2
       },
       {
         "label": "Continuing Degree",
-        "count": 2573,
+        "count": 2572,
         "pct": 62.0
       },
       {
@@ -46,8 +46,8 @@
     "ethnicity": [
       {
         "label": "Hispanic/Latino",
-        "count": 2321,
-        "pct": 55.9
+        "count": 2324,
+        "pct": 56.0
       },
       {
         "label": "American Indian/Alaska Native",
@@ -66,8 +66,8 @@
       },
       {
         "label": "Black/African American",
-        "count": 1195,
-        "pct": 28.8
+        "count": 1193,
+        "pct": 28.7
       },
       {
         "label": "White",
@@ -76,7 +76,7 @@
       },
       {
         "label": "Not Specified",
-        "count": 338,
+        "count": 337,
         "pct": 8.1
       }
     ],
@@ -95,7 +95,7 @@
     "acad_plan": [
       {
         "label": "Liberal Arts and Science AA",
-        "count": 1140,
+        "count": 1141,
         "pct": 27.5
       },
       {
@@ -105,7 +105,7 @@
       },
       {
         "label": "Dental Hygiene AAS",
-        "count": 407,
+        "count": 408,
         "pct": 9.8
       },
       {
@@ -145,7 +145,7 @@
       },
       {
         "label": "All other (21)",
-        "count": 706,
+        "count": 704,
         "pct": 16.9
       }
     ]
