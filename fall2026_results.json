@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-22T18:00:24",
+  "generated_at": "2026-08-23T18:00:28",
   "term_f26": "Fall 2026",
   "term_f25": "Fall 2025",
   "enrollment": {
-    "headcount": 5653,
+    "headcount": 5649,
     "gender": [
       {
         "label": "Women",
-        "count": 3977,
-        "pct": 70.4
+        "count": 3973,
+        "pct": 70.3
       },
       {
         "label": "Men",
         "count": 1676,
-        "pct": 29.6
+        "pct": 29.7
       }
     ],
     "admit_type": [
@@ -29,12 +29,12 @@
       },
       {
         "label": "Continuing Degree",
-        "count": 2935,
+        "count": 2933,
         "pct": 51.9
       },
       {
         "label": "Undergraduate Readmit",
-        "count": 488,
+        "count": 486,
         "pct": 8.6
       },
       {
@@ -46,7 +46,7 @@
     "ethnicity": [
       {
         "label": "Hispanic/Latino",
-        "count": 3091,
+        "count": 3089,
         "pct": 54.7
       },
       {
@@ -66,7 +66,7 @@
       },
       {
         "label": "Black/African American",
-        "count": 1590,
+        "count": 1588,
         "pct": 28.1
       },
       {
@@ -83,13 +83,13 @@
     "full_part": [
       {
         "label": "Part-time",
-        "count": 3206,
-        "pct": 56.7
+        "count": 3200,
+        "pct": 56.6
       },
       {
         "label": "Full-time",
-        "count": 2447,
-        "pct": 43.3
+        "count": 2449,
+        "pct": 43.4
       }
     ],
     "acad_plan": [
@@ -105,12 +105,12 @@
       },
       {
         "label": "Radiologic Technology AAS",
-        "count": 736,
+        "count": 737,
         "pct": 13.0
       },
       {
         "label": "Dental Hygiene AAS",
-        "count": 519,
+        "count": 518,
         "pct": 9.2
       },
       {
@@ -120,7 +120,7 @@
       },
       {
         "label": "Practical Nursing CERT",
-        "count": 267,
+        "count": 266,
         "pct": 4.7
       },
       {
@@ -145,7 +145,7 @@
       },
       {
         "label": "All other (21)",
-        "count": 844,
+        "count": 841,
         "pct": 14.9
       }
     ]
@@ -156,14 +156,14 @@
       {
         "group": "Freshmen",
         "cohort_n": 914,
-        "retained": 494,
-        "rate": 54.0
+        "retained": 493,
+        "rate": 53.9
       },
       {
         "group": "Transfers",
         "cohort_n": 694,
-        "retained": 380,
-        "rate": 54.8
+        "retained": 381,
+        "rate": 54.9
       },
       {
         "group": "All new students",
@@ -176,28 +176,28 @@
       {
         "label": "FULL-TIME",
         "cohort_n": 1039,
-        "retained": 608,
-        "rate": 58.5
+        "retained": 607,
+        "rate": 58.4
       },
       {
         "label": "PART-TIME",
         "cohort_n": 569,
-        "retained": 266,
-        "rate": 46.7
+        "retained": 267,
+        "rate": 46.9
       }
     ],
     "by_gender": [
       {
         "label": "Women",
         "cohort_n": 1108,
-        "retained": 616,
-        "rate": 55.6
+        "retained": 615,
+        "rate": 55.5
       },
       {
         "label": "Men",
         "cohort_n": 500,
-        "retained": 258,
-        "rate": 51.6
+        "retained": 259,
+        "rate": 51.8
       }
     ],
     "by_program": [
@@ -210,8 +210,8 @@
       {
         "label": "Radiologic Technology AAS",
         "cohort_n": 315,
-        "retained": 148,
-        "rate": 47.0
+        "retained": 149,
+        "rate": 47.3
       },
       {
         "label": "Dental Hygiene AAS",
@@ -252,8 +252,8 @@
       {
         "label": "Game Design AAS",
         "cohort_n": 46,
-        "retained": 28,
-        "rate": 60.9
+        "retained": 27,
+        "rate": 58.7
       },
       {
         "label": "Digital Dsgn and Animation AAS",
@@ -266,8 +266,8 @@
       "ftft_freshmen": {
         "label": "First-time, Full-time Freshmen in Associate Degrees and First-time Programs",
         "cohort_n": 629,
-        "retained": 369,
-        "rate": 58.7
+        "retained": 368,
+        "rate": 58.5
       },
       "ftft_transfers": {
         "label": "Full-time Transfers in Associate Degree Programs",
