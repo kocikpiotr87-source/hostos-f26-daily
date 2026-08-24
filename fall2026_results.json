@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-08-24T07:33:03",
+  "generated_at": "2026-08-24T18:00:23",
   "term_f26": "Fall 2026",
   "term_f25": "Fall 2025",
   "enrollment": {
-    "headcount": 5649,
+    "headcount": 5655,
     "gender": [
       {
         "label": "Women",
-        "count": 3973,
+        "count": 3977,
         "pct": 70.3
       },
       {
         "label": "Men",
-        "count": 1676,
+        "count": 1678,
         "pct": 29.7
       }
     ],
     "admit_type": [
       {
         "label": "First-time Freshman",
-        "count": 851,
+        "count": 852,
         "pct": 15.1
       },
       {
@@ -29,8 +29,8 @@
       },
       {
         "label": "Continuing Degree",
-        "count": 2933,
-        "pct": 51.9
+        "count": 2938,
+        "pct": 52.0
       },
       {
         "label": "Undergraduate Readmit",
@@ -46,7 +46,7 @@
     "ethnicity": [
       {
         "label": "Hispanic/Latino",
-        "count": 3089,
+        "count": 3092,
         "pct": 54.7
       },
       {
@@ -66,7 +66,7 @@
       },
       {
         "label": "Black/African American",
-        "count": 1588,
+        "count": 1591,
         "pct": 28.1
       },
       {
@@ -83,19 +83,19 @@
     "full_part": [
       {
         "label": "Part-time",
-        "count": 3200,
+        "count": 3202,
         "pct": 56.6
       },
       {
         "label": "Full-time",
-        "count": 2449,
+        "count": 2453,
         "pct": 43.4
       }
     ],
     "acad_plan": [
       {
         "label": "Liberal Arts and Science AA",
-        "count": 1446,
+        "count": 1449,
         "pct": 25.6
       },
       {
@@ -115,7 +115,7 @@
       },
       {
         "label": "Early Childhood Education AAS",
-        "count": 271,
+        "count": 272,
         "pct": 4.8
       },
       {
@@ -135,7 +135,7 @@
       },
       {
         "label": "Computer Science AS",
-        "count": 180,
+        "count": 181,
         "pct": 3.2
       },
       {
@@ -145,7 +145,7 @@
       },
       {
         "label": "All other (21)",
-        "count": 841,
+        "count": 842,
         "pct": 14.9
       }
     ]
