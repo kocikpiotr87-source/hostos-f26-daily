@@ -1,152 +1,152 @@
 {
-  "generated_at": "2026-08-25T18:00:25",
+  "generated_at": "2026-09-09T10:44:48",
   "term_f26": "Fall 2026",
   "term_f25": "Fall 2025",
   "enrollment": {
-    "headcount": 5742,
+    "headcount": 6131,
     "gender": [
       {
         "label": "Women",
-        "count": 4019,
-        "pct": 70.0
+        "count": 4235,
+        "pct": 69.1
       },
       {
         "label": "Men",
-        "count": 1723,
-        "pct": 30.0
+        "count": 1896,
+        "pct": 30.9
       }
     ],
     "admit_type": [
       {
         "label": "First-time Freshman",
-        "count": 868,
-        "pct": 15.1
+        "count": 974,
+        "pct": 15.9
       },
       {
         "label": "Transfer",
-        "count": 628,
-        "pct": 10.9
+        "count": 719,
+        "pct": 11.7
       },
       {
         "label": "Continuing Degree",
-        "count": 2962,
-        "pct": 51.6
+        "count": 3073,
+        "pct": 50.1
       },
       {
         "label": "Undergraduate Readmit",
-        "count": 494,
-        "pct": 8.6
+        "count": 557,
+        "pct": 9.1
       },
       {
         "label": "Other",
-        "count": 790,
-        "pct": 13.8
+        "count": 808,
+        "pct": 13.2
       }
     ],
     "ethnicity": [
       {
         "label": "Hispanic/Latino",
-        "count": 3128,
-        "pct": 54.5
+        "count": 3353,
+        "pct": 54.7
       },
       {
         "label": "American Indian/Alaska Native",
-        "count": 44,
+        "count": 46,
         "pct": 0.8
       },
       {
         "label": "Asian",
-        "count": 213,
-        "pct": 3.7
+        "count": 220,
+        "pct": 3.6
       },
       {
         "label": "Native Hawaiian/Pacific Islander",
-        "count": 10,
+        "count": 13,
         "pct": 0.2
       },
       {
         "label": "Black/African American",
-        "count": 1618,
-        "pct": 28.2
+        "count": 1759,
+        "pct": 28.7
       },
       {
         "label": "White",
-        "count": 113,
-        "pct": 2.0
+        "count": 133,
+        "pct": 2.2
       },
       {
         "label": "Not Specified",
-        "count": 616,
-        "pct": 10.7
+        "count": 607,
+        "pct": 9.9
       }
     ],
     "full_part": [
       {
         "label": "Part-time",
-        "count": 3259,
-        "pct": 56.8
+        "count": 3425,
+        "pct": 55.9
       },
       {
         "label": "Full-time",
-        "count": 2483,
-        "pct": 43.2
+        "count": 2706,
+        "pct": 44.1
       }
     ],
     "acad_plan": [
       {
         "label": "Liberal Arts and Science AA",
-        "count": 1476,
-        "pct": 25.7
+        "count": 1585,
+        "pct": 25.9
       },
       {
         "label": "Non Degree Undergraduate",
-        "count": 785,
-        "pct": 13.7
+        "count": 805,
+        "pct": 13.1
       },
       {
         "label": "Radiologic Technology AAS",
-        "count": 740,
+        "count": 788,
         "pct": 12.9
       },
       {
         "label": "Dental Hygiene AAS",
-        "count": 521,
-        "pct": 9.1
+        "count": 553,
+        "pct": 9.0
       },
       {
         "label": "Early Childhood Education AAS",
-        "count": 275,
+        "count": 297,
         "pct": 4.8
       },
       {
-        "label": "Practical Nursing CERT",
-        "count": 268,
-        "pct": 4.7
+        "label": "Business Management AS",
+        "count": 282,
+        "pct": 4.6
       },
       {
-        "label": "Business Management AS",
-        "count": 259,
+        "label": "Practical Nursing CERT",
+        "count": 278,
         "pct": 4.5
       },
       {
         "label": "Criminal Justice AA",
-        "count": 219,
-        "pct": 3.8
+        "count": 244,
+        "pct": 4.0
       },
       {
         "label": "Computer Science AS",
-        "count": 185,
-        "pct": 3.2
+        "count": 204,
+        "pct": 3.3
       },
       {
         "label": "Nursing AAS",
-        "count": 162,
-        "pct": 2.8
+        "count": 176,
+        "pct": 2.9
       },
       {
         "label": "All other (21)",
-        "count": 852,
-        "pct": 14.8
+        "count": 919,
+        "pct": 14.9
       }
     ]
   },
@@ -156,104 +156,104 @@
       {
         "group": "Freshmen",
         "cohort_n": 914,
-        "retained": 496,
-        "rate": 54.3
+        "retained": 519,
+        "rate": 56.8
       },
       {
         "group": "Transfers",
         "cohort_n": 694,
-        "retained": 386,
-        "rate": 55.6
+        "retained": 392,
+        "rate": 56.5
       },
       {
         "group": "All new students",
         "cohort_n": 1608,
-        "retained": 882,
-        "rate": 54.9
+        "retained": 911,
+        "rate": 56.7
       }
     ],
     "by_full_part": [
       {
         "label": "FULL-TIME",
         "cohort_n": 1039,
-        "retained": 613,
-        "rate": 59.0
+        "retained": 633,
+        "rate": 60.9
       },
       {
         "label": "PART-TIME",
         "cohort_n": 569,
-        "retained": 269,
-        "rate": 47.3
+        "retained": 278,
+        "rate": 48.9
       }
     ],
     "by_gender": [
       {
         "label": "Women",
         "cohort_n": 1108,
-        "retained": 621,
-        "rate": 56.0
+        "retained": 642,
+        "rate": 57.9
       },
       {
         "label": "Men",
         "cohort_n": 500,
-        "retained": 261,
-        "rate": 52.2
+        "retained": 269,
+        "rate": 53.8
       }
     ],
     "by_program": [
       {
         "label": "Liberal Arts and Science AA",
         "cohort_n": 423,
-        "retained": 246,
-        "rate": 58.2
+        "retained": 256,
+        "rate": 60.5
       },
       {
         "label": "Radiologic Technology AAS",
         "cohort_n": 315,
-        "retained": 151,
-        "rate": 47.9
+        "retained": 150,
+        "rate": 47.6
       },
       {
         "label": "Dental Hygiene AAS",
         "cohort_n": 160,
-        "retained": 88,
-        "rate": 55.0
+        "retained": 90,
+        "rate": 56.2
       },
       {
         "label": "Practical Nursing CERT",
         "cohort_n": 116,
-        "retained": 55,
-        "rate": 47.4
+        "retained": 57,
+        "rate": 49.1
       },
       {
         "label": "Business Management AS",
         "cohort_n": 88,
-        "retained": 47,
-        "rate": 53.4
+        "retained": 48,
+        "rate": 54.5
       },
       {
         "label": "Criminal Justice AA",
         "cohort_n": 83,
-        "retained": 44,
-        "rate": 53.0
+        "retained": 49,
+        "rate": 59.0
       },
       {
         "label": "Computer Science AS",
         "cohort_n": 69,
-        "retained": 43,
-        "rate": 62.3
+        "retained": 44,
+        "rate": 63.8
       },
       {
         "label": "Early Childhood Education AAS",
         "cohort_n": 54,
-        "retained": 35,
-        "rate": 64.8
+        "retained": 38,
+        "rate": 70.4
       },
       {
         "label": "Game Design AAS",
         "cohort_n": 46,
-        "retained": 28,
-        "rate": 60.9
+        "retained": 30,
+        "rate": 65.2
       },
       {
         "label": "Digital Dsgn and Animation AAS",
@@ -266,14 +266,14 @@
       "ftft_freshmen": {
         "label": "First-time, Full-time Freshmen in Associate Degrees and First-time Programs",
         "cohort_n": 629,
-        "retained": 370,
-        "rate": 58.8
+        "retained": 388,
+        "rate": 61.7
       },
       "ftft_transfers": {
         "label": "Full-time Transfers in Associate Degree Programs",
         "cohort_n": 368,
-        "retained": 220,
-        "rate": 59.8
+        "retained": 222,
+        "rate": 60.3
       }
     }
   }
