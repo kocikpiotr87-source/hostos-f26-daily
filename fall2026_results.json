@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-10T08:15:27",
+  "generated_at": "2026-09-10T21:25:50",
   "term_f26": "Fall 2026",
   "term_f25": "Fall 2025",
   "enrollment": {
-    "headcount": 6152,
+    "headcount": 6172,
     "gender": [
       {
         "label": "Women",
-        "count": 4246,
+        "count": 4261,
         "pct": 69.0
       },
       {
         "label": "Men",
-        "count": 1906,
+        "count": 1911,
         "pct": 31.0
       }
     ],
@@ -24,13 +24,13 @@
       },
       {
         "label": "Transfer",
-        "count": 725,
-        "pct": 11.8
+        "count": 723,
+        "pct": 11.7
       },
       {
         "label": "Continuing Degree",
-        "count": 3070,
-        "pct": 49.9
+        "count": 3065,
+        "pct": 49.7
       },
       {
         "label": "Undergraduate Readmit",
@@ -39,15 +39,15 @@
       },
       {
         "label": "Other",
-        "count": 833,
-        "pct": 13.5
+        "count": 860,
+        "pct": 13.9
       }
     ],
     "ethnicity": [
       {
         "label": "Hispanic/Latino",
-        "count": 3350,
-        "pct": 54.5
+        "count": 3343,
+        "pct": 54.2
       },
       {
         "label": "American Indian/Alaska Native",
@@ -56,7 +56,7 @@
       },
       {
         "label": "Asian",
-        "count": 220,
+        "count": 221,
         "pct": 3.6
       },
       {
@@ -67,7 +67,7 @@
       {
         "label": "Black/African American",
         "count": 1759,
-        "pct": 28.6
+        "pct": 28.5
       },
       {
         "label": "White",
@@ -76,42 +76,42 @@
       },
       {
         "label": "Not Specified",
-        "count": 631,
-        "pct": 10.3
+        "count": 657,
+        "pct": 10.6
       }
     ],
     "full_part": [
       {
         "label": "Part-time",
-        "count": 3446,
-        "pct": 56.0
+        "count": 3467,
+        "pct": 56.2
       },
       {
         "label": "Full-time",
-        "count": 2706,
-        "pct": 44.0
+        "count": 2705,
+        "pct": 43.8
       }
     ],
     "acad_plan": [
       {
         "label": "Liberal Arts and Science AA",
-        "count": 1583,
-        "pct": 25.7
+        "count": 1582,
+        "pct": 25.6
       },
       {
         "label": "Non Degree Undergraduate",
-        "count": 831,
-        "pct": 13.5
+        "count": 858,
+        "pct": 13.9
       },
       {
         "label": "Radiologic Technology AAS",
-        "count": 789,
+        "count": 787,
         "pct": 12.8
       },
       {
         "label": "Dental Hygiene AAS",
-        "count": 553,
-        "pct": 9.0
+        "count": 552,
+        "pct": 8.9
       },
       {
         "label": "Early Childhood Education AAS",
@@ -120,8 +120,8 @@
       },
       {
         "label": "Business Management AS",
-        "count": 281,
-        "pct": 4.6
+        "count": 280,
+        "pct": 4.5
       },
       {
         "label": "Practical Nursing CERT",
@@ -145,7 +145,7 @@
       },
       {
         "label": "All other (21)",
-        "count": 919,
+        "count": 917,
         "pct": 14.9
       }
     ]
