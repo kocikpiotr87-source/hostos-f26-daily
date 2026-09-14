@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-13T08:15:20",
+  "generated_at": "2026-09-13T21:49:35",
   "term_f26": "Fall 2026",
   "term_f25": "Fall 2025",
   "enrollment": {
-    "headcount": 6190,
+    "headcount": 6189,
     "gender": [
       {
         "label": "Women",
-        "count": 4270,
+        "count": 4269,
         "pct": 69.0
       },
       {
@@ -29,8 +29,8 @@
       },
       {
         "label": "Continuing Degree",
-        "count": 3061,
-        "pct": 49.5
+        "count": 3060,
+        "pct": 49.4
       },
       {
         "label": "Undergraduate Readmit",
@@ -46,7 +46,7 @@
     "ethnicity": [
       {
         "label": "Hispanic/Latino",
-        "count": 3339,
+        "count": 3338,
         "pct": 53.9
       },
       {
@@ -88,14 +88,14 @@
       },
       {
         "label": "Full-time",
-        "count": 2700,
+        "count": 2699,
         "pct": 43.6
       }
     ],
     "acad_plan": [
       {
         "label": "Liberal Arts and Science AA",
-        "count": 1578,
+        "count": 1577,
         "pct": 25.5
       },
       {
@@ -156,8 +156,8 @@
       {
         "group": "Freshmen",
         "cohort_n": 914,
-        "retained": 518,
-        "rate": 56.7
+        "retained": 517,
+        "rate": 56.6
       },
       {
         "group": "Transfers",
@@ -168,16 +168,16 @@
       {
         "group": "All new students",
         "cohort_n": 1608,
-        "retained": 908,
-        "rate": 56.5
+        "retained": 907,
+        "rate": 56.4
       }
     ],
     "by_full_part": [
       {
         "label": "FULL-TIME",
         "cohort_n": 1039,
-        "retained": 631,
-        "rate": 60.7
+        "retained": 630,
+        "rate": 60.6
       },
       {
         "label": "PART-TIME",
@@ -190,8 +190,8 @@
       {
         "label": "Women",
         "cohort_n": 1108,
-        "retained": 640,
-        "rate": 57.8
+        "retained": 639,
+        "rate": 57.7
       },
       {
         "label": "Men",
@@ -204,8 +204,8 @@
       {
         "label": "Liberal Arts and Science AA",
         "cohort_n": 423,
-        "retained": 256,
-        "rate": 60.5
+        "retained": 255,
+        "rate": 60.3
       },
       {
         "label": "Radiologic Technology AAS",
@@ -266,8 +266,8 @@
       "ftft_freshmen": {
         "label": "First-time, Full-time Freshmen in Associate Degrees and First-time Programs",
         "cohort_n": 629,
-        "retained": 387,
-        "rate": 61.5
+        "retained": 386,
+        "rate": 61.4
       },
       "ftft_transfers": {
         "label": "Full-time Transfers in Associate Degree Programs",
