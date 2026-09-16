@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-14T21:36:53",
+  "generated_at": "2026-09-15T20:15:38",
   "term_f26": "Fall 2026",
   "term_f25": "Fall 2025",
   "enrollment": {
-    "headcount": 6189,
+    "headcount": 6187,
     "gender": [
       {
         "label": "Women",
-        "count": 4269,
+        "count": 4270,
         "pct": 69.0
       },
       {
         "label": "Men",
-        "count": 1920,
+        "count": 1917,
         "pct": 31.0
       }
     ],
@@ -25,11 +25,11 @@
       {
         "label": "Transfer",
         "count": 721,
-        "pct": 11.6
+        "pct": 11.7
       },
       {
         "label": "Continuing Degree",
-        "count": 3060,
+        "count": 3057,
         "pct": 49.4
       },
       {
@@ -39,14 +39,14 @@
       },
       {
         "label": "Other",
-        "count": 887,
-        "pct": 14.3
+        "count": 888,
+        "pct": 14.4
       }
     ],
     "ethnicity": [
       {
         "label": "Hispanic/Latino",
-        "count": 3338,
+        "count": 3336,
         "pct": 53.9
       },
       {
@@ -83,29 +83,29 @@
     "full_part": [
       {
         "label": "Part-time",
-        "count": 3490,
-        "pct": 56.4
+        "count": 3493,
+        "pct": 56.5
       },
       {
         "label": "Full-time",
-        "count": 2699,
-        "pct": 43.6
+        "count": 2694,
+        "pct": 43.5
       }
     ],
     "acad_plan": [
       {
         "label": "Liberal Arts and Science AA",
-        "count": 1577,
+        "count": 1578,
         "pct": 25.5
       },
       {
         "label": "Non Degree Undergraduate",
-        "count": 885,
+        "count": 886,
         "pct": 14.3
       },
       {
         "label": "Radiologic Technology AAS",
-        "count": 786,
+        "count": 787,
         "pct": 12.7
       },
       {
@@ -115,7 +115,7 @@
       },
       {
         "label": "Early Childhood Education AAS",
-        "count": 296,
+        "count": 295,
         "pct": 4.8
       },
       {
@@ -130,7 +130,7 @@
       },
       {
         "label": "Criminal Justice AA",
-        "count": 244,
+        "count": 243,
         "pct": 3.9
       },
       {
@@ -145,7 +145,7 @@
       },
       {
         "label": "All other (21)",
-        "count": 915,
+        "count": 912,
         "pct": 14.8
       }
     ]
@@ -156,14 +156,14 @@
       {
         "group": "Freshmen",
         "cohort_n": 914,
-        "retained": 517,
-        "rate": 56.6
+        "retained": 516,
+        "rate": 56.5
       },
       {
         "group": "Transfers",
         "cohort_n": 694,
-        "retained": 390,
-        "rate": 56.2
+        "retained": 391,
+        "rate": 56.3
       },
       {
         "group": "All new students",
@@ -190,14 +190,14 @@
       {
         "label": "Women",
         "cohort_n": 1108,
-        "retained": 639,
-        "rate": 57.7
+        "retained": 640,
+        "rate": 57.8
       },
       {
         "label": "Men",
         "cohort_n": 500,
-        "retained": 268,
-        "rate": 53.6
+        "retained": 267,
+        "rate": 53.4
       }
     ],
     "by_program": [
@@ -222,8 +222,8 @@
       {
         "label": "Practical Nursing CERT",
         "cohort_n": 116,
-        "retained": 56,
-        "rate": 48.3
+        "retained": 57,
+        "rate": 49.1
       },
       {
         "label": "Business Management AS",
