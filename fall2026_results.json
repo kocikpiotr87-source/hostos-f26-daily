@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T20:15:28",
+  "generated_at": "2026-09-22T21:07:08",
   "term_f26": "Fall 2026",
   "term_f25": "Fall 2025",
   "enrollment": {
@@ -7,29 +7,29 @@
     "gender": [
       {
         "label": "Women",
-        "count": 4225,
+        "count": 4222,
         "pct": 69.0
       },
       {
         "label": "Men",
-        "count": 1895,
+        "count": 1898,
         "pct": 31.0
       }
     ],
     "admit_type": [
       {
         "label": "First-time Freshman",
-        "count": 949,
+        "count": 948,
         "pct": 15.5
       },
       {
         "label": "Transfer",
-        "count": 715,
+        "count": 714,
         "pct": 11.7
       },
       {
         "label": "Continuing Degree",
-        "count": 3016,
+        "count": 3015,
         "pct": 49.3
       },
       {
@@ -39,7 +39,7 @@
       },
       {
         "label": "Other",
-        "count": 893,
+        "count": 896,
         "pct": 14.6
       }
     ],
@@ -83,13 +83,13 @@
     "full_part": [
       {
         "label": "Part-time",
-        "count": 3594,
-        "pct": 58.7
+        "count": 3596,
+        "pct": 58.8
       },
       {
         "label": "Full-time",
-        "count": 2526,
-        "pct": 41.3
+        "count": 2524,
+        "pct": 41.2
       }
     ],
     "acad_plan": [
@@ -100,7 +100,7 @@
       },
       {
         "label": "Non Degree Undergraduate",
-        "count": 891,
+        "count": 894,
         "pct": 14.6
       },
       {
@@ -110,13 +110,13 @@
       },
       {
         "label": "Dental Hygiene AAS",
-        "count": 543,
+        "count": 542,
         "pct": 8.9
       },
       {
         "label": "Early Childhood Education AAS",
-        "count": 291,
-        "pct": 4.8
+        "count": 290,
+        "pct": 4.7
       },
       {
         "label": "Business Management AS",
@@ -145,7 +145,7 @@
       },
       {
         "label": "All other (21)",
-        "count": 897,
+        "count": 896,
         "pct": 14.7
       }
     ]
@@ -156,14 +156,14 @@
       {
         "group": "Freshmen",
         "cohort_n": 914,
-        "retained": 513,
-        "rate": 56.1
+        "retained": 512,
+        "rate": 56.0
       },
       {
         "group": "Transfers",
         "cohort_n": 694,
-        "retained": 383,
-        "rate": 55.2
+        "retained": 384,
+        "rate": 55.3
       },
       {
         "group": "All new students",
@@ -204,8 +204,8 @@
       {
         "label": "Liberal Arts and Science AA",
         "cohort_n": 423,
-        "retained": 249,
-        "rate": 58.9
+        "retained": 248,
+        "rate": 58.6
       },
       {
         "label": "Radiologic Technology AAS",
@@ -222,8 +222,8 @@
       {
         "label": "Practical Nursing CERT",
         "cohort_n": 116,
-        "retained": 56,
-        "rate": 48.3
+        "retained": 57,
+        "rate": 49.1
       },
       {
         "label": "Business Management AS",
