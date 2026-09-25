@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-23T20:59:07",
+  "generated_at": "2026-09-24T20:15:29",
   "term_f26": "Fall 2026",
   "term_f25": "Fall 2025",
   "enrollment": {
-    "headcount": 6123,
+    "headcount": 6128,
     "gender": [
       {
         "label": "Women",
-        "count": 4222,
+        "count": 4226,
         "pct": 69.0
       },
       {
         "label": "Men",
-        "count": 1901,
+        "count": 1902,
         "pct": 31.0
       }
     ],
@@ -29,8 +29,8 @@
       },
       {
         "label": "Continuing Degree",
-        "count": 3016,
-        "pct": 49.3
+        "count": 3017,
+        "pct": 49.2
       },
       {
         "label": "Undergraduate Readmit",
@@ -39,14 +39,14 @@
       },
       {
         "label": "Other",
-        "count": 898,
+        "count": 902,
         "pct": 14.7
       }
     ],
     "ethnicity": [
       {
         "label": "Hispanic/Latino",
-        "count": 3306,
+        "count": 3309,
         "pct": 54.0
       },
       {
@@ -56,7 +56,7 @@
       },
       {
         "label": "Asian",
-        "count": 218,
+        "count": 219,
         "pct": 3.6
       },
       {
@@ -66,7 +66,7 @@
       },
       {
         "label": "Black/African American",
-        "count": 1732,
+        "count": 1733,
         "pct": 28.3
       },
       {
@@ -77,18 +77,18 @@
       {
         "label": "Not Specified",
         "count": 677,
-        "pct": 11.1
+        "pct": 11.0
       }
     ],
     "full_part": [
       {
         "label": "Part-time",
-        "count": 3595,
+        "count": 3597,
         "pct": 58.7
       },
       {
         "label": "Full-time",
-        "count": 2528,
+        "count": 2531,
         "pct": 41.3
       }
     ],
@@ -100,8 +100,8 @@
       },
       {
         "label": "Non Degree Undergraduate",
-        "count": 896,
-        "pct": 14.6
+        "count": 900,
+        "pct": 14.7
       },
       {
         "label": "Radiologic Technology AAS",
@@ -111,7 +111,7 @@
       {
         "label": "Dental Hygiene AAS",
         "count": 542,
-        "pct": 8.9
+        "pct": 8.8
       },
       {
         "label": "Early Childhood Education AAS",
@@ -120,7 +120,7 @@
       },
       {
         "label": "Business Management AS",
-        "count": 280,
+        "count": 281,
         "pct": 4.6
       },
       {
