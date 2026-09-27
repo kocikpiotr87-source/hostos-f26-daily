@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-26T08:15:49",
+  "generated_at": "2026-09-26T21:52:38",
   "term_f26": "Fall 2026",
   "term_f25": "Fall 2025",
   "enrollment": {
-    "headcount": 6123,
+    "headcount": 6127,
     "gender": [
       {
         "label": "Women",
-        "count": 4221,
+        "count": 4223,
         "pct": 68.9
       },
       {
         "label": "Men",
-        "count": 1902,
+        "count": 1904,
         "pct": 31.1
       }
     ],
@@ -24,12 +24,12 @@
       },
       {
         "label": "Transfer",
-        "count": 714,
+        "count": 715,
         "pct": 11.7
       },
       {
         "label": "Continuing Degree",
-        "count": 3016,
+        "count": 3018,
         "pct": 49.3
       },
       {
@@ -39,14 +39,14 @@
       },
       {
         "label": "Other",
-        "count": 898,
+        "count": 899,
         "pct": 14.7
       }
     ],
     "ethnicity": [
       {
         "label": "Hispanic/Latino",
-        "count": 3307,
+        "count": 3308,
         "pct": 54.0
       },
       {
@@ -66,24 +66,24 @@
       },
       {
         "label": "Black/African American",
-        "count": 1729,
+        "count": 1730,
         "pct": 28.2
       },
       {
         "label": "White",
-        "count": 131,
-        "pct": 2.1
+        "count": 132,
+        "pct": 2.2
       },
       {
         "label": "Not Specified",
-        "count": 678,
+        "count": 679,
         "pct": 11.1
       }
     ],
     "full_part": [
       {
         "label": "Part-time",
-        "count": 3593,
+        "count": 3597,
         "pct": 58.7
       },
       {
@@ -95,23 +95,23 @@
     "acad_plan": [
       {
         "label": "Liberal Arts and Science AA",
-        "count": 1555,
+        "count": 1557,
         "pct": 25.4
       },
       {
         "label": "Non Degree Undergraduate",
-        "count": 896,
+        "count": 897,
         "pct": 14.6
       },
       {
         "label": "Radiologic Technology AAS",
-        "count": 778,
+        "count": 779,
         "pct": 12.7
       },
       {
         "label": "Dental Hygiene AAS",
         "count": 542,
-        "pct": 8.9
+        "pct": 8.8
       },
       {
         "label": "Early Childhood Education AAS",
@@ -130,7 +130,7 @@
       },
       {
         "label": "Criminal Justice AA",
-        "count": 239,
+        "count": 240,
         "pct": 3.9
       },
       {
@@ -145,7 +145,7 @@
       },
       {
         "label": "All other (21)",
-        "count": 896,
+        "count": 895,
         "pct": 14.7
       }
     ]
@@ -162,13 +162,13 @@
       {
         "group": "Transfers",
         "cohort_n": 694,
-        "retained": 384,
-        "rate": 55.3
+        "retained": 385,
+        "rate": 55.5
       },
       {
         "group": "All new students",
         "cohort_n": 1608,
-        "retained": 895,
+        "retained": 896,
         "rate": 55.7
       }
     ],
@@ -176,8 +176,8 @@
       {
         "label": "FULL-TIME",
         "cohort_n": 1039,
-        "retained": 624,
-        "rate": 60.1
+        "retained": 625,
+        "rate": 60.2
       },
       {
         "label": "PART-TIME",
@@ -190,8 +190,8 @@
       {
         "label": "Women",
         "cohort_n": 1108,
-        "retained": 634,
-        "rate": 57.2
+        "retained": 635,
+        "rate": 57.3
       },
       {
         "label": "Men",
@@ -204,8 +204,8 @@
       {
         "label": "Liberal Arts and Science AA",
         "cohort_n": 423,
-        "retained": 248,
-        "rate": 58.6
+        "retained": 249,
+        "rate": 58.9
       },
       {
         "label": "Radiologic Technology AAS",
@@ -272,8 +272,8 @@
       "ftft_transfers": {
         "label": "Full-time Transfers in Associate Degree Programs",
         "cohort_n": 368,
-        "retained": 219,
-        "rate": 59.5
+        "retained": 220,
+        "rate": 59.8
       }
     }
   }
