@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-09-28T10:31:38",
+  "generated_at": "2026-09-28T20:16:06",
   "term_f26": "Fall 2026",
   "term_f25": "Fall 2025",
   "enrollment": {
-    "headcount": 6127,
+    "headcount": 6123,
     "gender": [
       {
         "label": "Women",
-        "count": 4223,
+        "count": 4220,
         "pct": 68.9
       },
       {
         "label": "Men",
-        "count": 1904,
+        "count": 1903,
         "pct": 31.1
       }
     ],
     "admit_type": [
       {
         "label": "First-time Freshman",
-        "count": 948,
+        "count": 947,
         "pct": 15.5
       },
       {
@@ -29,8 +29,8 @@
       },
       {
         "label": "Continuing Degree",
-        "count": 3018,
-        "pct": 49.3
+        "count": 3015,
+        "pct": 49.2
       },
       {
         "label": "Undergraduate Readmit",
@@ -46,7 +46,7 @@
     "ethnicity": [
       {
         "label": "Hispanic/Latino",
-        "count": 3308,
+        "count": 3304,
         "pct": 54.0
       },
       {
@@ -67,7 +67,7 @@
       {
         "label": "Black/African American",
         "count": 1730,
-        "pct": 28.2
+        "pct": 28.3
       },
       {
         "label": "White",
@@ -83,19 +83,19 @@
     "full_part": [
       {
         "label": "Part-time",
-        "count": 3597,
-        "pct": 58.7
+        "count": 3618,
+        "pct": 59.1
       },
       {
         "label": "Full-time",
-        "count": 2530,
-        "pct": 41.3
+        "count": 2505,
+        "pct": 40.9
       }
     ],
     "acad_plan": [
       {
         "label": "Liberal Arts and Science AA",
-        "count": 1557,
+        "count": 1556,
         "pct": 25.4
       },
       {
@@ -105,12 +105,12 @@
       },
       {
         "label": "Radiologic Technology AAS",
-        "count": 779,
+        "count": 778,
         "pct": 12.7
       },
       {
         "label": "Dental Hygiene AAS",
-        "count": 542,
+        "count": 541,
         "pct": 8.8
       },
       {
@@ -145,8 +145,8 @@
       },
       {
         "label": "All other (21)",
-        "count": 895,
-        "pct": 14.7
+        "count": 894,
+        "pct": 14.6
       }
     ]
   },
