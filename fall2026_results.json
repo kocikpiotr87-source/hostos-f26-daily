@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-29T21:04:22",
+  "generated_at": "2026-10-01T09:04:45",
   "term_f26": "Fall 2026",
   "term_f25": "Fall 2025",
   "enrollment": {
-    "headcount": 6123,
+    "headcount": 6121,
     "gender": [
       {
         "label": "Women",
-        "count": 4220,
+        "count": 4217,
         "pct": 68.9
       },
       {
         "label": "Men",
-        "count": 1903,
+        "count": 1904,
         "pct": 31.1
       }
     ],
@@ -24,13 +24,13 @@
       },
       {
         "label": "Transfer",
-        "count": 715,
+        "count": 714,
         "pct": 11.7
       },
       {
         "label": "Continuing Degree",
-        "count": 3015,
-        "pct": 49.2
+        "count": 3017,
+        "pct": 49.3
       },
       {
         "label": "Undergraduate Readmit",
@@ -39,14 +39,14 @@
       },
       {
         "label": "Other",
-        "count": 899,
-        "pct": 14.7
+        "count": 896,
+        "pct": 14.6
       }
     ],
     "ethnicity": [
       {
         "label": "Hispanic/Latino",
-        "count": 3304,
+        "count": 3305,
         "pct": 54.0
       },
       {
@@ -56,7 +56,7 @@
       },
       {
         "label": "Asian",
-        "count": 219,
+        "count": 220,
         "pct": 3.6
       },
       {
@@ -76,19 +76,19 @@
       },
       {
         "label": "Not Specified",
-        "count": 679,
-        "pct": 11.1
+        "count": 675,
+        "pct": 11.0
       }
     ],
     "full_part": [
       {
         "label": "Part-time",
-        "count": 3618,
+        "count": 3615,
         "pct": 59.1
       },
       {
         "label": "Full-time",
-        "count": 2505,
+        "count": 2506,
         "pct": 40.9
       }
     ],
@@ -100,12 +100,12 @@
       },
       {
         "label": "Non Degree Undergraduate",
-        "count": 897,
+        "count": 893,
         "pct": 14.6
       },
       {
         "label": "Radiologic Technology AAS",
-        "count": 778,
+        "count": 779,
         "pct": 12.7
       },
       {
@@ -115,8 +115,8 @@
       },
       {
         "label": "Early Childhood Education AAS",
-        "count": 290,
-        "pct": 4.7
+        "count": 291,
+        "pct": 4.8
       },
       {
         "label": "Business Management AS",
